@@ -1,0 +1,270 @@
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.deps.json
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.runtimeconfig.json
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.dll
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.pdb
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.dll
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.pdb
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.Views.dll
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.Views.pdb
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.TagHelpers.input.cache
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.TagHelpers.output.cache
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorCoreGenerate.cache
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.Views.pdb
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csproj.CopyComplete
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Post.cshtml.g.cs
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Panel\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Panel\Edit.cshtml.g.cs
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.deps.json
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.runtimeconfig.json
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.runtimeconfig.dev.json
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.dll
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.pdb
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.Views.dll
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.Views.pdb
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.AssemblyInfoInputs.cache
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.AssemblyInfo.cs
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorAssemblyInfo.cache
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorAssemblyInfo.cs
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.TagHelpers.input.cache
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.TagHelpers.output.cache
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorCoreGenerate.cache
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Post.cshtml.g.cs
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Panel\Edit.cshtml.g.cs
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Panel\Index.cshtml.g.cs
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorTargetAssemblyInfo.cache
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorTargetAssemblyInfo.cs
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.Views.pdb
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.dll
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.pdb
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.genruntimeconfig.cache
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csproj.CopyComplete
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.deps.json
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.runtimeconfig.json
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.runtimeconfig.dev.json
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.dll
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.pdb
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.Views.dll
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.Views.pdb
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.AssemblyInfoInputs.cache
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.AssemblyInfo.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csproj.CoreCompileInputs.cache
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorAssemblyInfo.cache
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorAssemblyInfo.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.TagHelpers.input.cache
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.TagHelpers.output.cache
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorCoreGenerate.cache
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Post.cshtml.g.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Panel\Edit.cshtml.g.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Panel\Index.cshtml.g.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.Views.pdb
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.dll
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.pdb
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.genruntimeconfig.cache
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csproj.CopyComplete
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csprojAssemblyReference.cache
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.deps.json
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.runtimeconfig.json
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.dll
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.pdb
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.Views.dll
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.Views.pdb
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.TagHelpers.input.cache
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.TagHelpers.output.cache
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Post.cshtml.g.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Panel\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Panel\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.Views.pdb
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.dll
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.pdb
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CarBlogFIlm15\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csproj.CopyComplete
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.deps.json
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.runtimeconfig.json
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.runtimeconfig.dev.json
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.dll
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.pdb
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.Views.dll
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.Views.pdb
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csprojAssemblyReference.cache
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.AssemblyInfoInputs.cache
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.AssemblyInfo.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csproj.CoreCompileInputs.cache
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorAssemblyInfo.cache
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorAssemblyInfo.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.TagHelpers.input.cache
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.TagHelpers.output.cache
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorCoreGenerate.cache
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Post.cshtml.g.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Panel\Edit.cshtml.g.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Panel\Index.cshtml.g.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.Views.pdb
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.dll
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.pdb
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.genruntimeconfig.cache
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csproj.CopyComplete
+C:\Users\Darek\Desktop\APK WWW - PROJEKT\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\_MainComment.cshtml.g.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.deps.json
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.runtimeconfig.json
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.dll
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.pdb
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.Views.dll
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.Views.pdb
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.TagHelpers.input.cache
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.TagHelpers.output.cache
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Post.cshtml.g.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\_MainComment.cshtml.g.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Panel\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Panel\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.Views.pdb
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.dll
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.pdb
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CarBlogFIlm15frontcomments\CarBlogFIlm15+front\CarBlogFIlm11\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csproj.CopyComplete
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\damia\source\repos\ProjektAPK\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\_MainComment.cshtml.g.cs
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.deps.json
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.runtimeconfig.json
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.runtimeconfig.dev.json
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.dll
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.pdb
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.Views.dll
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.Views.pdb
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csproj.AssemblyReference.cache
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.AssemblyInfoInputs.cache
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.AssemblyInfo.cs
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csproj.CoreCompileInputs.cache
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorAssemblyInfo.cache
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorAssemblyInfo.cs
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.TagHelpers.input.cache
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.TagHelpers.output.cache
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorCoreGenerate.cache
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Post.cshtml.g.cs
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\_MainComment.cshtml.g.cs
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Panel\Edit.cshtml.g.cs
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Panel\Index.cshtml.g.cs
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.Views.pdb
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.dll
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.pdb
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.genruntimeconfig.cache
+C:\Users\Shonari\Desktop\CarBlog\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csproj.CopyComplete
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.deps.json
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.runtimeconfig.json
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.runtimeconfig.dev.json
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.dll
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.pdb
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.Views.dll
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\bin\Debug\netcoreapp2.1\CarBlog.Web.Views.pdb
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csproj.AssemblyReference.cache
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.AssemblyInfoInputs.cache
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.AssemblyInfo.cs
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csproj.CoreCompileInputs.cache
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorAssemblyInfo.cache
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorAssemblyInfo.cs
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.TagHelpers.input.cache
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.TagHelpers.output.cache
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorCoreGenerate.cache
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Post.cshtml.g.cs
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\_MainComment.cshtml.g.cs
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Panel\Edit.cshtml.g.cs
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Panel\Index.cshtml.g.cs
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.Views.pdb
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.dll
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.pdb
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.genruntimeconfig.cache
+C:\Users\Shonari\Desktop\Blog Samochodowy\Blog Samochodowy\CarBlog\CarBlog.Web\obj\Debug\netcoreapp2.1\CarBlog.Web.csproj.CopyComplete
